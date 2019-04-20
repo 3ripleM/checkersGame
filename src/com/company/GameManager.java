@@ -12,7 +12,6 @@ public class GameManager {
     GameManager(){
         table = new Table(8 , this);
         setPlayerInfo();
-        start();
     }
 
     //@TODO : complete This :)
